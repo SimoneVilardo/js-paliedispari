@@ -17,8 +17,8 @@ console.log(contrario);
 // CONDIZIONE
 
 if (contrario === parola_utente){
-    console.log('La parola è PALINDOMA')
+    console.log('La parola è PALINDROMA')
 }
 else {
-    console.log('La parola NON è PALINDOMA')
+    console.log('La parola NON è PALINDROMA')
 }
