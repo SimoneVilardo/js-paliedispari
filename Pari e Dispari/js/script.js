@@ -35,8 +35,8 @@ let somma = (ins_numero + num_generato);
 console.log(somma)
 
 // FUNZIONE PER CAPIRE SE LA SOMMA è PARI O DISPARI
-function pariOdispari (somma){
-    if(somma % 2 === 0){
+function pariOdispari (addizzione){
+    if(addizzione % 2 === 0){
         return "pari";
     }
     else{
